@@ -1,2 +1,2 @@
 # NamingContest
-Lynda's App
+Lynda's Application. 
